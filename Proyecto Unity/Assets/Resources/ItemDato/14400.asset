@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bedaa26cb857de84e86550981cd93f13, type: 3}
+  m_Name: 14400
+  m_EditorClassIdentifier: 
+  id: 14400
+  name: Llave de oro
+  tipo: 4
+  rareza: 4
+  descripcion: Llave que sirve para abrir el cofre de oro
+  precio: 8000
+  sprite: {fileID: 21300000, guid: 1eef36d1305e37b46a9377c8d12cdac6, type: 3}
+  variable: 0
+  cantidadRecuperada: 0
+  durabilidad: 0
+  especial: 0

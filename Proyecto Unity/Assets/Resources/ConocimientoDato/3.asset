@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d60bc91c2665f774aad38670ea5fb0c5, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  titulo: Equipamiento
+  img: {fileID: 21300000, guid: ef419fce13384654bab5cbf27232d640, type: 3}
+  texto: 
+  info: "Los atributos del equipamiento est\xE1n ocultos y se revelar\xE1n cuando
+    los compres."
